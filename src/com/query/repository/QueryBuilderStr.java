@@ -1,6 +1,6 @@
-package com.signbox.firmatura.repository.query;
+package com.query.repository;
 
-import com.signbox.firmatura.util.DynamicTypes;
+import com.query.util.DynamicTypes;
 import org.springframework.data.domain.Sort;
 
 import java.util.Arrays;

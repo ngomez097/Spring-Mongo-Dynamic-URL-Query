@@ -1,4 +1,4 @@
-package com.signbox.firmatura.repository.query;
+package com.query.repository;
 
 import org.springframework.data.domain.Sort;
 

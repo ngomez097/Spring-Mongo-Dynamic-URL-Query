@@ -1,4 +1,4 @@
-package com.signbox.firmatura.repository.query;
+package com.query.repository;
 
 import java.util.Arrays;
 import java.util.List;
